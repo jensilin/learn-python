@@ -299,3 +299,37 @@ After completing **Object-Oriented Programming**, you can continue with advanced
 ---
 
 > **Note:** Object-Oriented Programming is a core skill for every Python developer. Mastering OOP will help you build structured, reusable, and scalable applications while providing a strong foundation for frameworks such as Django, Flask, FastAPI, PyQt, TensorFlow, and many other modern Python technologies.
+
+
+# 📄 License
+
+**Copyright © 2026 Jensilin Jino J C**
+
+All Rights Reserved.
+
+This repository is published for **educational**, **learning**, and **portfolio** purposes only.
+
+## Permissions
+
+You are welcome to:
+
+- ✅ View the contents of this repository.
+- ✅ Read and study the source code.
+- ✅ Use the repository as a learning and reference resource.
+
+## Restrictions
+
+Without prior written permission from the copyright holder, you may **NOT**:
+
+- ❌ Copy this repository or substantial portions of it.
+- ❌ Redistribute or republish the source code.
+- ❌ Modify and distribute this work.
+- ❌ Use this work for commercial purposes.
+- ❌ Claim this work, in whole or in part, as your own.
+- ❌ Remove or alter this copyright notice.
+
+Viewing this repository does **not** grant ownership, redistribution, or reuse rights.
+
+---
+
+If you would like to request permission to use any part of this repository, please contact the copyright holder.

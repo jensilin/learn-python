@@ -166,3 +166,37 @@ For additional learning and detailed documentation, refer to:
 ---
 
 > **Note:** This module is organized into **Selection Statements**, **Iteration Statements**, and **Jump Statements** to provide a structured learning experience. Each notebook contains detailed explanations, syntax, examples with outputs, practical applications, and best practices. Completing this module will give you the skills needed to control program execution effectively and prepare you for more advanced Python programming concepts.
+
+
+# 📄 License
+
+**Copyright © 2026 Jensilin Jino J C**
+
+All Rights Reserved.
+
+This repository is published for **educational**, **learning**, and **portfolio** purposes only.
+
+## Permissions
+
+You are welcome to:
+
+- ✅ View the contents of this repository.
+- ✅ Read and study the source code.
+- ✅ Use the repository as a learning and reference resource.
+
+## Restrictions
+
+Without prior written permission from the copyright holder, you may **NOT**:
+
+- ❌ Copy this repository or substantial portions of it.
+- ❌ Redistribute or republish the source code.
+- ❌ Modify and distribute this work.
+- ❌ Use this work for commercial purposes.
+- ❌ Claim this work, in whole or in part, as your own.
+- ❌ Remove or alter this copyright notice.
+
+Viewing this repository does **not** grant ownership, redistribution, or reuse rights.
+
+---
+
+If you would like to request permission to use any part of this repository, please contact the copyright holder.
