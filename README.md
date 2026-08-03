@@ -16,7 +16,7 @@ This repository is designed to help anyone learn Python through a structured, pr
 - 📂 File Handling
 - 🚨 Exception Handling
 - 🏗️ Object-Oriented Programming (OOP)
-- 💡 Practice Questions
+- 💡 Practice Questions 
 - 🛠️ Mini Projects
 
 ## 🎯 Repository Goals
@@ -61,4 +61,4 @@ Viewing this repository does **not** grant ownership, redistribution, or reuse r
 
 ---
 
-If you would like to request permission to use any part of this repository, please contact the copyright holder.
+If you would like to request permission to use any part of this repository, please contact the copyright holder...
